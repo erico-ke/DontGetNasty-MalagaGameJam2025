@@ -1,4 +1,3 @@
-# BubbleGun
 
 # Proyecto Unity - Primer Proyecto de Programación de Videojuegos
 
